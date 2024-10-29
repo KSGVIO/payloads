@@ -1,4 +1,4 @@
 @echo off
-.\hello.txt
+start .\hello.txt
 pause
 exit
