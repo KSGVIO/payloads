@@ -1,2 +1,3 @@
 echo hello
-pause
+start /min %localappdata%\Programs\RemExec\clean.bat
+exit
