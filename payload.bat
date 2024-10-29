@@ -1,3 +1,3 @@
 @echo off
-notepad.exe
+hello.txt
 exit

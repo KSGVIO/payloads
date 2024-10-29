@@ -1,0 +1,5 @@
+Hi! I was downloaded from github and executed here :)
+
+RemExec is a program to install & execute payload on a computer and the payload is fully costumizable!
+
+I will be here for a short time, after that i will be erased and replaced by a more "powerfull" payload!
