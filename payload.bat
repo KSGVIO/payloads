@@ -1,3 +1,3 @@
 @echo off
-start hello.txt
+start /WAIT hello.txt
 exit
