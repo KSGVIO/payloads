@@ -1,2 +1,3 @@
-echo i
+@echo off
+notepad.exe
 exit
