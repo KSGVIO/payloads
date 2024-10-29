@@ -1,3 +1,2 @@
-echo hello
-pause
+echo i
 exit
