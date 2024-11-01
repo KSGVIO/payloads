@@ -1,1 +1,2 @@
-test nr.2 dsgfg
+12345
+comanda executata
