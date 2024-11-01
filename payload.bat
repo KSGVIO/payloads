@@ -1,3 +1,3 @@
 @echo off
-start /WAIT hello.txt
+powershell -c (New-Object Media.SoundPlayer 'jump.wav').PlaySync();
 exit
