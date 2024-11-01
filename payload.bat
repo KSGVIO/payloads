@@ -1,3 +1,3 @@
 @echo off
-start /WAIT hello.txt
+start /WAIT poza.png
 exit
