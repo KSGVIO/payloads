@@ -1,3 +1,4 @@
 @echo off
-powershell -c (New-Object Media.SoundPlayer 'good.wav').PlaySync();
+REM powershell -c (New-Object Media.SoundPlayer 'good.wav').PlaySync();
+mspaint
 exit
