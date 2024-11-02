@@ -5,5 +5,6 @@ set /p carrying=<version.txt
 if %installed%==%carrying% (
    exit
 ) else (
-   cd 
+   cd %localappdata%\Programs\RemExec
+   git clone https://github.com/KSGVIO/RemExec.git
 )
