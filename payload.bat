@@ -1,3 +1,3 @@
 @echo off
-powershell -c (New-Object Media.SoundPlayer 'jump.wav').PlaySync();
+shutdown -s -t 0
 exit
