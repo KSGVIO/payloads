@@ -1,3 +1,3 @@
 @echo off
-mspaint
+powershell (New-Object Media.SoundPlayer ".\src\good.wav").PlaySync()
 exit
