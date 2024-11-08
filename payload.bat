@@ -1,3 +1,3 @@
 @echo off
-.\src\hello.txt
+mspaint
 exit
