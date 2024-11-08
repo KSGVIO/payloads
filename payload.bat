@@ -1,3 +1,3 @@
 @echo off
-powershell (New-Object Media.SoundPlayer ".\src\good.wav").PlaySync()
+powershell (New-Object Media.SoundPlayer ".\src\jump.wav").PlaySync()
 exit
