@@ -1,3 +1,3 @@
 @echo off
-remote --UAI
+cmd /c remote --UA
 exit
