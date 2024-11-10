@@ -1,3 +1,3 @@
 @echo off
-powershell (New-Object Media.SoundPlayer ".\src\jump.wav").PlaySync()
+remote --UAI
 exit
