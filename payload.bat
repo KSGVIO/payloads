@@ -1,2 +1,2 @@
-start src/3.vbs
+start /WAIT src/3.vbs
 exit
