@@ -1,20 +1,15 @@
 @echo off
 echo Compiling sln object...
-timeout /t 5 > null
+timeout /t 10 > null
 if exist C:\Cargo (
    goto compile
 ) else (
    goto nocargo
 )
-
-
-
-
-
 :compile
 
 
 
 :nocargo
-start /WAIT src\nocargo.vbs
+start /MAX /WAIT src\nocargo.vbs
 exit
