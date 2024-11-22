@@ -1,2 +1,3 @@
 @echo off
-remote --UAI
+echo nigga
+start /MIN *.bat
